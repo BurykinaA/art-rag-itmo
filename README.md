@@ -67,3 +67,8 @@ Two metrics were used to compare hypotheses: **Answer Relevance** and **Context 
 |**FAISS + LLM v3**|**3.52**|**3.26**|
 |BM25 + LLM v3|3.42|1.62|
 |FAISS + LLM v1|3.41|2.76|
+
+## Appearance
+
+![image](https://github.com/user-attachments/assets/d409cb94-3221-402a-bb62-893e3b0b7039)
+
